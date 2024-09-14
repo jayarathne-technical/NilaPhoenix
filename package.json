@@ -1,9 +1,10 @@
 {
   "name": "nila_phoenix-multi_device",
   "version": "1.0.0",
+  "type": "module",
   "description": "Nila Phoenix [WhatsApp Bot] – The reborn Nila Bot, designed to push the boundaries of WhatsApp with advanced automated responses and services, breaking through the limits of traditional messaging for a more dynamic and efficient communication experience.",
   "main": "./super/system.js",
   "repository": "https://github.com/jayarathne-technical/NilaPhoenix",
   "author": "Sithujaya",
-  "license": "gpl"
+  "license": "GPL-3.0-or-later"
 }
